@@ -29,7 +29,7 @@ const WHATSAPP_NUMBER = "55XXXXXXXXXXX";
  * >>> INSTAGRAM, E-MAIL E TEXTO EXIBIDO DO WHATSAPP <<<
  */
 const CONTACT = {
-  instagramUrl: "https://www.instagram.com/SEU_USUARIO/",
+  instagramUrl: "https://www.instagram.com/gatilnocturne/",
   instagramHandle: "@gatilnocturne",
   email: "contato@seudominio.com.br",
   whatsappDisplay: "(81) 98186-4714",
