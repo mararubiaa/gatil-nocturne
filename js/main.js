@@ -30,9 +30,9 @@ const WHATSAPP_NUMBER = "55XXXXXXXXXXX";
  */
 const CONTACT = {
   instagramUrl: "https://www.instagram.com/SEU_USUARIO/",
-  instagramHandle: "@SEU_USUARIO",
+  instagramHandle: "@gatilnocturne",
   email: "contato@seudominio.com.br",
-  whatsappDisplay: "(XX) XXXXX-XXXX",
+  whatsappDisplay: "(81) 98186-4714",
 };
 
 /**
