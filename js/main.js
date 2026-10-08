@@ -23,7 +23,7 @@
  * Formato: código do país + DDD + número, somente dígitos.
  * Exemplo: "5511987654321"  (55 = Brasil, 11 = DDD, 987654321 = número)
  */
-const WHATSAPP_NUMBER = "55XXXXXXXXXXX";
+const WHATSAPP_NUMBER = "5581995974041";
 
 /**
  * >>> INSTAGRAM, E-MAIL E TEXTO EXIBIDO DO WHATSAPP <<<
